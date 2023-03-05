@@ -1,8 +1,19 @@
 ### Hello 👋 I am Eswar
 
 
-🎓   Studying Information Technology, Web Programming.
+🎓     Studying Information Technology.
 
+⭐     Web developer / UI/UX Designer
+
+🤔     Exploring new technologies and experimenting with various tools hacks.
+
+💼     I’m currently looking for job.
+
+🌱     I’m currently learning mern stack
+
+💬     Ask me about Web development
+
+👨‍💻     My Personal Portfolio : https://eswar-profile.000webhostapp.com
 
 <!--
 **Royal-Code-Master/Royal-Code-Master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
