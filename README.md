@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋 I am Eswar
+
+
+🎓   Studying Information Technology, Web Programming.
+
 
 <!--
 **Royal-Code-Master/Royal-Code-Master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
