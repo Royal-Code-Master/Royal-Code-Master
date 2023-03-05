@@ -21,4 +21,4 @@
 
 ## Languages and Tools i Use
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,php,mysql,xampp,c,java,c#)](https://skills.thijs.gg)
