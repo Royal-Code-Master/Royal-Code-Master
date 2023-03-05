@@ -21,4 +21,4 @@
 
 ## Languages and Tools i Use
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,html,css,js,bootstrap,php,mysql,c,java,git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,html,css,js,bootstrap,php,mysql,c,java,git,github,jquery,postgres,cs)](https://skills.thijs.gg)
