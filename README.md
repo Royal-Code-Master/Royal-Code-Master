@@ -5,6 +5,8 @@
 
 ⭐     Web developer / UI/UX Designer
 
+💻     SQL Developer
+
 🤔     Exploring new technologies and experimenting with various tools hacks.
 
 💼     I’m currently looking for job.
