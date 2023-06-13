@@ -11,7 +11,7 @@
 
 💼     I’m currently looking for job.
 
-🌱     I’m currently learning mern stack
+🌱     I’m currently learning mern stack and WEB 3.0
 
 💬     Ask me about Web development
 
