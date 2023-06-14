@@ -1,7 +1,6 @@
 ### Hello 👋 I am Eswar
 
 
-🎓     Studying Information Technology.
 
 ⭐     Web developer / UI/UX Designer
 
