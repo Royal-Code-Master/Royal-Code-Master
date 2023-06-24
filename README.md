@@ -22,4 +22,4 @@
 
 ## Languages and Tools i Use
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,html,css,js,bootstrap,php,mysql,c,java,git,github,jquery,postgres,nextjs,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,html,css,js,bootstrap,php,mysql,c,java,git,github,jquery,postgres,nextjs,figma,tailwind)](https://skills.thijs.gg)
