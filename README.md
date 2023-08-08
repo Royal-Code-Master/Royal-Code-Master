@@ -10,9 +10,11 @@
 
 💼     I’m currently looking for job.
 
+✍️     Technical Article Writer
+
 🌱     I’m currently learning mern stack and WEB 3.0
 
-💬     Ask me about Web development
+💬     Ask me about Web development and Java
 
 👨‍💻     My Personal Portfolio : https://eswar-profile.000webhostapp.com
 
