@@ -2,7 +2,7 @@
 
 
 
-⭐     Web developer / UI/UX Designer
+⭐     Java Developer / Web developer / UI/UX Designer
 
 💻     SQL Developer
 
