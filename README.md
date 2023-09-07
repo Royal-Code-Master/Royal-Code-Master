@@ -28,7 +28,7 @@
 
 
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royal-Code-Master)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royal-Code-Master)]
 
 
 
