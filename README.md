@@ -28,7 +28,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Royal-Code-Master&show_icons=true&locale=en&layout=compact" alt="eswar" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royal-Code-Master)]
 
 
 
