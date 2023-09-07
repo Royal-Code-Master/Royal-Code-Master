@@ -28,8 +28,8 @@
 
 
 
-[![Eswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royal-Code-Master)]
+[![Eswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royal-Code-Master)]                                     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Royal-Code-Master&layout=compact)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Royal-Code-Master&layout=compact)
+
