@@ -22,7 +22,7 @@
 
 
 
-## Languages and Tools i Use
+## Languages and Tools I Used
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,html,css,js,bootstrap,php,mysql,c,java,git,github,jquery,postgres,nextjs,figma,tailwind,spring)](https://skills.thijs.gg)
 
